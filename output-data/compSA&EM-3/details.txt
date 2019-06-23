@@ -1,0 +1,19 @@
+Date: 98/3/27
+
+World: 2*2
+number of robots: 2
+horizon : 10
+run number: 100
+max iteration in each run: 100
+
+*******************
+OUTPUTS:
+  SA:
+    mean_after_converge_sa (from iteration 20):   0.9432828282828282
+    mean from start:  0.9435499999999999
+    std_sa:   0.036371650658708926
+
+  EFWD:
+    mean_after_converge_em (from iteration 20):   0.9682594936708859
+    mean from start:  0.9464500000000001
+    std_em:   0.03281534182648772
