@@ -64,29 +64,6 @@ import numpy as np
 
 
 
-# x_sa = 0.955
-# x_em = 0.969
-# s_sa = 0.042
-# s_em = 0.028
-# n = 100
-# SE = np.sqrt((s_sa**2)/100 + (s_em**2)/100)
-# print("SE: ", SE)
-# SE_round = 0.005
-# x_dif = x_em - x_sa
-# print("x_dif:  ", x_dif)
-# x_dif_round = 0.014
-#
-# z_score = x_dif_round / SE_round
-# print(z_score)
-
-#
-# thisset = {"apple", "banana", "cherry"}
-# print(thisset)
-# thisset.add("Sara")
-# print(thisset)
-arr = [53, 12, 100, 32]
-sorted_arr = sorted(range(len(arr)), key=lambda k: arr[k])
-print(sorted_arr)
 
 
 
